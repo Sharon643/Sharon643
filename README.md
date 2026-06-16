@@ -43,6 +43,7 @@
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **ML & Deep Learning**
 
@@ -74,6 +75,16 @@
 📊 Machine Learning & Predictive Modeling  👁️ Computer Vision
 🤗 NLP & Semantic Search                   ⚙️ MLOps & Model Deployment
 ```
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharon643/Sharon643/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharon643/Sharon643/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sharon643/Sharon643/output/github-snake.svg" />
+</picture>
 
 ---
 
