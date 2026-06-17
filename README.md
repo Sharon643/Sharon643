@@ -115,6 +115,23 @@
 </div>
 
 ---
+## 📅 Contribution Activity
+
+<div align="center">
+
+[![Sharon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharon643&theme=tokyo-night&hide_border=true&area=true&color=6e40c9&line=6e40c9&point=ffffff)](https://github.com/Sharon643)
+
+</div>
+
+<div align="center">
+
+| 🗓️ This Week | 📆 This Month | 🏆 Total Contributions |
+|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/Sharon643?y=last-week&query=$.total.lastWeek&label=commits&color=6e40c9&style=flat) | ![](https://img.shields.io/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/Sharon643&query=$.total.lastMonth&label=commits&color=6e40c9&style=flat) | ![](https://img.shields.io/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/Sharon643&query=$.total.lastYear&label=commits&color=6e40c9&style=flat) |
+
+</div>
+
+---
 
 <div align="center">
   <picture>
