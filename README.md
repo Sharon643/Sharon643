@@ -7,10 +7,6 @@
 
 *Machine Learning • Computer Vision • LLMs • Generative AI*
 
-<a href="#connect">
-<img src="https://img.shields.io/badge/Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 ---
